@@ -1,6 +1,6 @@
 ---
 title: "this-is-where-it-all-starts"
-date: "2022-01-14"
+date: 2022-01-14
 ---
 
 
